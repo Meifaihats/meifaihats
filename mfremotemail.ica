@@ -1,0 +1,22 @@
+[WFClient]
+Version=2
+TcpBrowserAddress=10.0.69.1
+HttpBrowserAddress=202.82.207.171
+PersistentCachePath=C:\Documents and Settings\barry\Application Data\ICAClient\Cache
+ 
+[ApplicationServers]
+Desktop=
+ 
+[Desktop]
+Address=202.82.207.171:1494
+InitialProgram=#Desktop
+ClientAudio=On
+AudioBandwidthLimit=2
+Compress=On
+DesiredHRES=1024
+DesiredVRES=768
+DesiredColor=2
+TransportDriver=TCP/IP
+WinStationDriver=ICA 3.0
+BrowserProtocol=HTTPonTCP
+ScreenPercent=0
